@@ -10,6 +10,7 @@ void menu(){
 
 void MensajeParaMario(){
 	printf("Ya tengo Sueño ");
+	printf("Me debes un Sushi");
 }
 
 void MensajeParaAlex(){
