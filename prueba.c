@@ -9,5 +9,6 @@ void menu(){
 }
 
 int Suma(int a,int b){
+	String s;
 	return a+b;
 }
