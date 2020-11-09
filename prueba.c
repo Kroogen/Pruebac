@@ -11,3 +11,7 @@ void menu(){
 void MensajeParaMario(){
 	printf("Ya tengo Sueño ");
 }
+
+void MensajeParaAlex(){
+	printf("TRABAJA PRRO *Soltando latigaso*");
+}
