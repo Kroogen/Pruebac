@@ -14,4 +14,8 @@ void MensajeParaMario(){
 
 void MensajeParaAlex(){
 	printf("TRABAJA PRRO *Soltando latigaso*");
+
+int Suma(int a,int b){
+	String s;
+	return a+b;
 }
